@@ -1,0 +1,12 @@
+{
+  "name": "Bot",
+  "version": "alpha",
+  "description": "Bot discord musique ",
+  "main": "main.js",
+  "repository": "https://github.com/nicoco23/bot-discord.git",
+  "author": "Nicoco23",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
